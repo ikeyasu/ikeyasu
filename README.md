@@ -3,8 +3,8 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ikeyasu/followers.svg)](http://qiita.com/ikeyasu)
 
                 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeyasu&count_private=true&show_icons=true&theme=monokai)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikeyasu&layout=compact&theme=monokai)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeyasu&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikeyasu&layout=compact)
 
 ### Hi there 👋
 
